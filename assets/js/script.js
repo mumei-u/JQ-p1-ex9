@@ -1,3 +1,3 @@
-$(function() {
-    ('#firstText', '#thirdText').css('border', '5px green dashed')
-})
+$(function(){
+  $('#firstText, #thirdText').css('border', 'dashed green 5px');
+});
